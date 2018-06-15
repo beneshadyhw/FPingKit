@@ -1,0 +1,111 @@
+
+Fast pinger version 2.17
+(c) Wouter Dhondt (http://www.kwakkelflap.com)
+
+Pinging 139.159.230.43 with 32 bytes of data every 2 ms:
+
+Reply[1] from 139.159.230.43: bytes=32 time=1.0 ms TTL=61
+Reply[2] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[3] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[4] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[5] from 139.159.230.43: bytes=32 time=0.5 ms TTL=61
+Reply[6] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[7] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[8] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[9] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[10] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[11] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[12] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[13] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[14] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[15] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[16] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[17] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[18] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[19] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[20] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[21] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[22] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[23] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[24] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[25] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[26] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[27] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[28] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[29] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[30] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[31] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[32] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[33] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[34] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[35] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[36] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[37] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[38] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[39] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[40] from 139.159.230.43: bytes=32 time=0.0 ms TTL=61
+Reply[41] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[42] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[43] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[44] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[45] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[46] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[47] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[48] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[49] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[50] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[51] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[52] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[53] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[54] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[55] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[56] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[57] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[58] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[59] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[60] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[61] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[62] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[63] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[64] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[65] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[66] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[67] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[68] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[69] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[70] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[71] from 139.159.230.43: bytes=32 time=0.5 ms TTL=61
+Reply[72] from 139.159.230.43: bytes=32 time=0.5 ms TTL=61
+Reply[73] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[74] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[75] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[76] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[77] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[78] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[79] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[80] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[81] from 139.159.230.43: bytes=32 time=1.0 ms TTL=61
+Reply[82] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[83] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[84] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[85] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[86] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[87] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[88] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[89] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[90] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[91] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[92] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[93] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[94] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[95] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[96] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[97] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[98] from 139.159.230.43: bytes=32 time=0.3 ms TTL=61
+Reply[99] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+Reply[100] from 139.159.230.43: bytes=32 time=0.4 ms TTL=61
+
+Ping statistics for 139.159.230.43:
+	Packets: Sent = 100, Received = 100, Lost = 0 (0% loss)
+Approximate round trip times in milli-seconds:
+	Minimum = 0.0 ms, Maximum = 1.0 ms, Average = 0.4 ms
